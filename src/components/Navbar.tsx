@@ -171,7 +171,7 @@ export default function Navbar() {
             className="hidden md:inline-flex rounded-full h-8 gap-1.5 text-xs font-medium"
             asChild
           >
-            <a href="/resume.pdf" download>
+            <a href="/AYAN ALI KHAN_resume.pdf" download>
               <Download className="size-3.5" />
               Resume
             </a>
