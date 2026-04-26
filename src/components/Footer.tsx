@@ -68,7 +68,7 @@ export default function Footer() {
                 </a>
               ))}
               <a
-                href="/resume.pdf"
+                href="/AYAN ALI KHAN_resume.pdf"
                 download
                 className="text-sm text-muted-foreground hover:text-foreground transition-colors w-fit"
               >
