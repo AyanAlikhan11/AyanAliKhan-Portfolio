@@ -29,7 +29,7 @@ export default function Footer() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              <span className="gradient-text">AC</span>
+              <span className="gradient-text">AK</span>
             </motion.button>
             <p className="text-sm text-muted-foreground max-w-xs leading-relaxed">
               {siteConfig.tagline}. Building digital products with modern web

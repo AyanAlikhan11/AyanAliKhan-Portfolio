@@ -1,14 +1,50 @@
-User-agent: Googlebot
-Allow: /
+STARTING:
 
-User-agent: Bingbot
-Allow: /
+Hello everyone i am Ayan Ali Khan team leader of my Team FeedForward i am here with my problem statement is Large amount of food are wasted daily due to the lack of an efficient system to collect and redistribute surplus food to people in need. 
+Every day, millions of people sleep hungry...
+while tons of perfectly edible food are wasted.
+Hunger and food waste exist side by side.
+What if technology could connect surplus food to those who need it most?
 
-User-agent: Twitterbot
-Allow: /
+Introducing HungerFree — is a smart digital...................
 
-User-agent: facebookexternalhit
-Allow: /
 
-User-agent: *
-Allow: /
+Restaurants, households, events, and farms often have excess food.
+Meanwhile NGOs struggle to find resources, and volunteers lack coordination.
+Existing systems are slow, manual, and inefficient.
+
+show the prototype and the functionality
+
+admin dashboard//
+HungerFree uses AI-powered prediction models to forecast food demand in different areas.
+It identifies high-risk zones, estimates meals needed, and helps prioritize resources before shortages happen.
+
+
+
+Our smart admin dashboard provides real-time insights:
+
+Total donations
+Food saved
+People served
+Active volunteers
+Top donor regions
+Monthly growth analytics
+These insights help cities scale operations intelligently.
+
+
+HungerFree creates impact at multiple levels:
+
+Reduces food waste
+Feeds vulnerable communities
+Supports NGOs
+Empowers volunteers
+Helps farmers
+Builds smarter cities
+
+
+Hunger is not caused by lack of food.
+It is caused by lack of connection.
+HungerFree connects surplus to need.
+Together, we can build a world with Zero Hunger.
+
+
